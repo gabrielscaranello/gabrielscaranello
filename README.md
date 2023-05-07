@@ -40,3 +40,12 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
 </div><br/>
 
 ![Snake animation](https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake-dark.svg)
+
+  
+ ##### More
+  
+- 📍 I'm from: Brazil
+- 🎂 Age: 24 years old
+- 💻️ OS: Arch Linux
+- 🌐 Favorite Languages: JavaScript/TypeScript
+- 🔧 Favorite Frameworks: Vue.js, Quasar, NestJs
