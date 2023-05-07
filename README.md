@@ -2,8 +2,8 @@
 
 <div style="display: inline_block"><br/>
   <a href="https://github.com/gabrielscaranello">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=vue-dark&count_private=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=8&layout=compact&hide=C%23&theme=vue-dark&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=8&layout=compact&hide=C%23&theme=github_dark&count_private=true" />
 </div>
 
 <div style="display: inline_block"><br/>
