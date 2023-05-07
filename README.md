@@ -35,4 +35,4 @@
   <a href="https://instagram.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-%23e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 </div><br/>
 
-![Snake animation](https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake-dark.svg)
