@@ -1,5 +1,9 @@
 ### Hello! I'm Gabriel Scaranello
 
+I'm a programming lover, I've been working in the area since January 2018.  
+On my journey I learned and used PHP, followed by JavaScript and TypeScript, using frameworks like Laravel and Vue.js. I'm currently a front-end developer using Vue.js and React, and I venture a lot with Node.js.  
+Contact me to talk about programming, I'm a fan of a good challenge and a good Counter-Strike game.
+
 <div style="display: inline_block"><br/>
   <a href="https://github.com/gabrielscaranello">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=github_dark&count_private=true" />
