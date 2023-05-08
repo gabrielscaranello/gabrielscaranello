@@ -5,9 +5,16 @@ On my journey I learned and used PHP, followed by JavaScript and TypeScript, usi
 Contact me to talk about programming, I'm a fan of a good challenge and a good Counter-Strike game.
 
 <div style="display: inline_block"><br/>
-  <a href="https://github.com/gabrielscaranello">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=github_dark&count_private=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=8&layout=compact&hide=C%23&theme=github_dark&count_private=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=vue-dark&bg_color=00000000&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=vue&bg_color=00000000&count_private=true" />
+    <img height="200em" alt="Gabriel's GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=8&layout=compact&hide=C%23&theme=vue-dark&bg_color=00000000&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=8&layout=compact&hide=C%23&theme=vue&bg_color=00000000&count_private=true" />
+    <img height="200em" alt="Gabriel's Most Used Languages" />
+  </picture>
 </div>
 
 <div style="display: inline_block"><br/>
@@ -38,9 +45,12 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
   <a href="https://instagram.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23e13665?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-%23e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 </div><br/>
-
-![Snake animation](https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake-dark.svg)
-
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Gabriel's contributions" />
+</picture>
   
  ##### More
   
