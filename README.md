@@ -17,25 +17,38 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
   </picture>
 </div>
 
-<div style="display: inline_block"><br/>
-    <img align="center" title="Typescript" alt="Gabriel-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-    <img align="center" title="Javascript" alt="Gabriel-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-    <img align="center" title="Vue.js" alt="Gabriel-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-    <img align="center" title="React" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img align="center" title="NestJs" alt="Gabriel-Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
-    <img align="center" title="Node.js" alt="Gabriel-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-    <img align="center" title="Jest" alt="Gabriel-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
-    <img align="center" title="Laravel" alt="Gabriel-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
-    <img align="center" title="PHP" alt="Gabriel-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-    <img align="center" title="HTML5" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-    <img align="center" title="CSS3" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-    <img align="center" title="SASS" alt="Gabriel-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-    <img align="center" title="Docker" alt="Gabriel-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-    <img align="center" title="Git" alt="Gabriel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-    <img align="center" title="Linux" alt="Gabriel-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img align="center" title="Arch Linux" alt="Gabriel-Arch" height="30" width="40" src="./assets/icons/arch-linux.svg" />
-    <img align="center" title="Fedora" alt="Gabriel-Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" />
-    <img align="center" title="Ubuntu" alt="Gabriel-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
+### Languages
+
+<div style="display: inline_block">
+    <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+    <img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+    <img align="center" title="HTML5" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+    <img align="center" title="CSS3" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+    <img align="center" title="SASS" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+    <img align="center" title="PHP" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+</div>
+
+### Frameworks
+
+<div style="display: inline_block">
+    <img align="center" title="Vue.js" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+    <img align="center" title="Quasar" alt="Quasar" height="30" width="40" src="./assets/icons/quasar.svg" />
+    <img align="center" title="ReactJs" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+    <img align="center" title="NestJs" alt="Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
+    <img align="center" title="Laravel" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+    <img align="center" title="Jest" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+</div>
+
+### Tecnologies
+
+<div style="display: inline_block">
+    <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+    <img align="center" title="Node.js" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+    <img align="center" title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+    <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img align="center" title="Arch Linux" alt="Arch" height="30" width="40" src="./assets/icons/arch-linux.svg" />
+    <img align="center" title="Fedora" alt="Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" />
+    <img align="center" title="Ubuntu" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
 </div>
 
 ##
@@ -54,9 +67,14 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
 </picture>
   
  ##### More
-  
+
 - 📍 I'm from: Brazil
 - 🎂 Age: 24 years old
 - 💻️ OS: Arch Linux
 - 🌐 Favorite Languages: JavaScript/TypeScript
 - 🔧 Favorite Frameworks: Vue.js, Quasar, NestJs
+
+#### Links
+
+- [Dotfiles](https://github.com/gabrielscaranello/dotfiles)
+- [AstroNvim Config](https://github.com/gabrielscaranello/astronvim-config)
