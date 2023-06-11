@@ -32,7 +32,11 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
 
 <div style="display: inline_block">
     <img align="center" title="Vue.js" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-    <img align="center" title="Quasar" alt="Quasar" height="30" width="40" src="./assets/icons/quasar.svg" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/quasar-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/icons/quasar.svg" />
+       <img align="center" title="Quasar" alt="Quasar" height="30" width="40" />
+    </picture>
     <img align="center" title="ReactJs" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     <img align="center" title="NestJs" alt="Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
     <img align="center" title="Laravel" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
