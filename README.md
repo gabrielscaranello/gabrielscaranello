@@ -11,8 +11,8 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
     <img height="200em" alt="Gabriel's GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=8&layout=compact&hide=C%23&theme=vue-dark&bg_color=00000000&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=8&layout=compact&hide=C%23&theme=vue&bg_color=00000000&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=6&layout=compact&hide=C%23,kotlin&theme=vue-dark&bg_color=00000000&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=6&layout=compact&hide=C%23,kotlin&theme=vue&bg_color=00000000&count_private=true" />
     <img height="200em" alt="Gabriel's Most Used Languages" />
   </picture>
 </div>
@@ -70,7 +70,7 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
   <img alt="Gabriel's contributions" />
 </picture>
   
- ##### More
+##### More
 
 - 📍 I'm from: Brazil
 - 🎂 Age: 24 years old
