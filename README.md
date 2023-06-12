@@ -12,8 +12,8 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=6&layout=compact&bg_color=00000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=6&layout=compact&bg_color=00000000&text_color=4c4f69&icon_color=8839ef&title_color=179299&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=6&layout=compact&bg_color=00000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&count_private=true&size_weight=0.5&count_weight=0.5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=6&layout=compact&bg_color=00000000&text_color=4c4f69&icon_color=8839ef&title_color=179299&count_private=true&size_weight=0.5&count_weight=0.5" />
     <img height="200em" alt="Gabriel's Most Used Languages" />
   </picture>
 </div>
