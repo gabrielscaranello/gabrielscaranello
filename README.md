@@ -33,14 +33,10 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
 
 <div style="display: inline_block">
     <img align="center" title="Vue.js" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/quasar-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/icons/quasar.svg" />
-       <img align="center" title="Quasar" alt="Quasar" height="30" width="40" />
-    </picture>
+    <img align="center" title="Vue.js" alt="Quasar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-plain.svg" />
     <img align="center" title="ReactJs" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img align="center" title="NestJs" alt="Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
-    <img align="center" title="Laravel" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+    <img align="center" title="NestJs" alt="Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
+    <img align="center" title="Laravel" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
     <img align="center" title="Jest" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
 </div>
 
@@ -50,10 +46,11 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
     <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
     <img align="center" title="Node.js" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
     <img align="center" title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+    <img align="center" title="Neovim" alt="Neovim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" />
     <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img align="center" title="Arch Linux" alt="Arch" height="30" width="40" src="./assets/icons/arch-linux.svg" />
+    <img align="center" title="Arch Linux" alt="Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" />
     <img align="center" title="Fedora" alt="Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" />
-    <img align="center" title="Ubuntu" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
+    <img align="center" title="Ubuntu" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" />
 </div>
 
 ##
@@ -74,8 +71,8 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
 ##### More
 
 - 📍 I'm from: Brazil
-- 🎂 Age: 24 years old
-- 💻️ OS: Arch Linux
+- 🎂 Age: 25 years old
+- 💻️ OS: Linux Mint
 - 🌐 Favorite Languages: JavaScript/TypeScript
 - 🔧 Favorite Frameworks: Vue.js, Quasar, NestJs
 
