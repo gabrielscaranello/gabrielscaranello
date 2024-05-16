@@ -72,11 +72,11 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
 
 - 📍 I'm from: Brazil
 - 🎂 Age: 25 years old
-- 💻️ OS: Linux Mint
+- 💻️ OS: Zorin OS
 - 🌐 Favorite Languages: JavaScript/TypeScript
 - 🔧 Favorite Frameworks: Vue.js, Quasar, NestJs
 
 #### Links
 
 - [Dotfiles](https://github.com/gabrielscaranello/dotfiles)
-- [AstroNvim Config](https://github.com/gabrielscaranello/astronvim-config)
+- [Zorin OS Setup](https://github.com/gabrielscaranello/zorin-setup)
