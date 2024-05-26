@@ -53,7 +53,7 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
     <img align="center" title="Ubuntu" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" />
 </div>
 
-##
+---
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/gabrielscaranello/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -72,11 +72,11 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
 
 - 📍 I'm from: Brazil
 - 🎂 Age: 25 years old
-- 💻️ OS: Zorin OS
+- 💻️ OS: Fedora Workstation
 - 🌐 Favorite Languages: JavaScript/TypeScript
 - 🔧 Favorite Frameworks: Vue.js, Quasar, NestJs
 
 #### Links
 
 - [Dotfiles](https://github.com/gabrielscaranello/dotfiles)
-- [Zorin OS Setup](https://github.com/gabrielscaranello/zorin-setup)
+- [Fedora Workstation Setup](https://github.com/gabrielscaranello/fedora-setup)
