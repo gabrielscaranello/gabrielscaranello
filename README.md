@@ -5,17 +5,9 @@ On my journey I learned and used PHP, followed by JavaScript and TypeScript, usi
 Contact me to talk about programming, I'm a fan of a good challenge and a good Counter-Strike game.
 
 <div style="display: inline_block"><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&bg_color=00000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&bg_color=00000000&text_color=4c4f69&icon_color=8839ef&title_color=179299&count_private=true" />
-    <img height="184em" alt="Gabriel's GitHub Stats" />
-  </picture>
+   <img height="184em" alt="Gabriel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=catppuccin_latte&count_private=true" />
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=6&layout=compact&bg_color=00000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&count_private=true&size_weight=0.5&count_weight=0.5&hide=makefile,kotlin,C%23" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&langs_count=6&layout=compact&bg_color=00000000&text_color=4c4f69&icon_color=8839ef&title_color=179299&count_private=true&size_weight=0.5&count_weight=0.5&hide=makefile,kotlin,C%23" />
-    <img height="184em" alt="Gabriel's Most Used Languages" />
-  </picture>
+   <img height="184em" alt="Gabriel's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&theme=catppuccin_latte&langs_count=6&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&hide=makefile,kotlin,C%23" />
 </div>
 
 ### Languages
