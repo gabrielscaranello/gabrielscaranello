@@ -5,9 +5,8 @@ On my journey I learned and used PHP, followed by JavaScript and TypeScript, usi
 Contact me to talk about programming, I'm a fan of a good challenge and a good Counter-Strike game.
 
 <div style="display: inline_block"><br/>
-   <img height="184em" alt="Gabriel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=catppuccin_latte&count_private=true" />
-  
-   <img height="184em" alt="Gabriel's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&theme=catppuccin_latte&langs_count=6&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&hide=makefile,kotlin,C%23" />
+    <img height="184em" alt="Gabriel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=catppuccin_latte&count_private=true" />
+    <img height="184em" alt="Gabriel's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&theme=catppuccin_latte&langs_count=6&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&hide=makefile,kotlin,C%23" />
 </div>
 
 ### Languages
@@ -48,18 +47,18 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
 ---
 
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/gabrielscaranello/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231c92e1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23e13665?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-%23e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gabrielscaranello/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231c92e1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23e13665?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-%23e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 </div><br/>
-  
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Gabriel's contributions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="Gabriel's contributions" />
 </picture>
-  
+
 ##### More
 
 - 📍 I'm from: Brazil
