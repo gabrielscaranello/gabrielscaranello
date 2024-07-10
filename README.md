@@ -39,9 +39,10 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
     <img align="center" title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
     <img align="center" title="Neovim" alt="Neovim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" />
     <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img align="center" title="Arch Linux" alt="Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" />
+    <img align="center" title="Debianx" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" />
     <img align="center" title="Fedora" alt="Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" />
     <img align="center" title="Ubuntu" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" />
+    <img align="center" title="Arch Linux" alt="Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" />
 </div>
 
 ---
@@ -63,11 +64,11 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
 
 - 📍 I'm from: Brazil
 - 🎂 Age: 25 years old
-- 💻️ OS: Fedora Workstation
+- 💻️ OS: Debian 12 Bookworm
 - 🌐 Favorite Languages: JavaScript/TypeScript
 - 🔧 Favorite Frameworks: Vue.js, Quasar, NestJs
 
 #### Links
 
 - [Dotfiles](https://github.com/gabrielscaranello/dotfiles)
-- [Fedora Workstation Setup](https://github.com/gabrielscaranello/fedora-setup)
+- [Debian 12 Setup](https://github.com/gabrielscaranello/debian)
