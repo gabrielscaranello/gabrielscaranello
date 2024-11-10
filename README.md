@@ -1,8 +1,12 @@
 ### Hello! I'm Gabriel Scaranello
 
-I'm a programming lover, I've been working in the area since January 2018.  
-On my journey I learned and used PHP, followed by JavaScript and TypeScript, using frameworks like Laravel and Vue.js. I'm currently a front-end developer using Vue.js and React, and I venture a lot with Node.js.  
-Contact me to talk about programming, I'm a fan of a good challenge and a good Counter-Strike game.
+👨‍💻 I'm a software engineer passionate about programming, working in the field since January 2019. Over the years, I've gained experience with PHP, JavaScript, and TypeScript, using frameworks like Laravel, Vue.js, and React. Currently, I focus on front-end development with React and Vue.js, while expanding my skills in back-end with Node.js and studying Golang to build robust solutions. I'm also knowledgeable in Docker and a proud open-source enthusiast.
+
+🚀 On my journey, I’ve embraced best practices like SOLID, Clean Architecture, and TDD, and I value agile methodologies for efficient and impactful project delivery. As I transition to a senior role, I'm also advancing my skills in software architecture and solution architecture.
+
+🐧 I'm a Linux distributions enthusiast. My journey began with Linux Mint, and I’m a big fan of Arch Linux. I used Debian for a significant amount of time, but I’m currently using Arch with the KDE Plasma interface, which offers flexibility and an efficient workflow.
+
+✨ My favorite code editor is Neovim, which keeps my workflow efficient and enjoyable. Reach out if you'd like to chat about programming! I’m always up for a good challenge and a good game of Counter-Strike.
 
 <div style="display: inline_block"><br/>
     <img height="184em" alt="Gabriel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=catppuccin_mocha&count_private=true" />
@@ -18,13 +22,14 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
     <img align="center" title="CSS3" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img align="center" title="SASS" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
     <img align="center" title="PHP" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+    <img align="center" title="Golang" alt="Golang" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" />
 </div>
 
 ### Frameworks
 
 <div style="display: inline_block">
     <img align="center" title="Vue.js" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-    <img align="center" title="Vue.js" alt="Quasar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-plain.svg" />
+    <img align="center" title="Quasar" alt="Quasar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-plain.svg" />
     <img align="center" title="ReactJs" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     <img align="center" title="NestJs" alt="Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
     <img align="center" title="Laravel" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
@@ -51,7 +56,7 @@ Contact me to talk about programming, I'm a fan of a good challenge and a good C
     <a href="https://www.linkedin.com/in/gabrielscaranello/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231c92e1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23e13665?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-%23e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+    <a href="https://gitlab.com/gabrielscaranello" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-%23e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 </div><br/>
 
 <picture>
