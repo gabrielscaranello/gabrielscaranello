@@ -70,7 +70,7 @@
 
 <div style="display: inline_block">
     <a href="https://www.linkedin.com/in/gabrielscaranello/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231c92e1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href="https://x.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23e13665?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://gitlab.com/gabrielscaranello" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-%23e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 </div><br/>
