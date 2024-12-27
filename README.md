@@ -1,7 +1,5 @@
 ## Hello! I'm Gabriel Scaranello
 
-#### EN-US 🇺🇸
-
 👨‍💻 I'm a software engineer passionate about programming, working in the field since January 2019. Over the years, I've gained experience with PHP, JavaScript, and TypeScript, using frameworks like Laravel, Vue.js, and React. Currently, I focus on front-end development with React and Vue.js, while expanding my skills in back-end with Node.js and studying Golang to build robust solutions. I'm also knowledgeable in Docker and a proud open-source enthusiast.
 
 🚀 On my journey, I’ve embraced best practices like SOLID, Clean Architecture, and TDD, and I value agile methodologies for efficient and impactful project delivery. As I transition to a senior role, I'm also advancing my skills in software architecture and solution architecture.
@@ -9,18 +7,6 @@
 🐧 I'm a Linux distributions enthusiast. My journey began with Linux Mint, and I’m a big fan of Arch Linux. I used Debian for a significant amount of time, but I’m currently using Arch with GNOME, which offers flexibility and an efficient workflow.
 
 ✨ My favorite code editor is Neovim, which keeps my workflow efficient and enjoyable. Reach out if you'd like to chat about programming! I’m always up for a good challenge and a good game of Counter-Strike.
-
----
-
-#### PT-BR 🇧🇷
-
-👨‍💻 Sou um engenheiro de software apaixonado por programação, atuando na área desde janeiro de 2019. Ao longo dos anos, adquiri experiência com PHP, JavaScript e TypeScript, usando frameworks como Laravel, Vue.js e React. Atualmente, estou focado no desenvolvimento front-end com React e Vue.js, além de expandir minhas habilidades no back-end com Node.js e estudando Golang para construir soluções robustas. Também tenho conhecimento em Docker e sou um entusiasta de código aberto.
-
-🚀 Durante minha trajetória, adotei boas práticas como SOLID, Clean Architecture e TDD, valorizando metodologias ágeis para entregas eficientes e com impacto. Em transição para uma posição de nível sênior, estou também evoluindo minhas habilidades em arquitetura de software e arquitetura de solução.
-
-🐧 Sou entusiasta de distribuições Linux. Comecei com o Linux Mint e sou um grande fã do Arch Linux. Usei Debian por um bom tempo, mas atualmente estou utilizando Arch com GNOME, o que proporciona flexibilidade e um fluxo de trabalho eficiente.
-
-✨ Meu editor de código favorito é o Neovim, que mantém meu fluxo de trabalho produtivo e agradável. Entre em contato se quiser bater um papo sobre programação! Estou sempre aberto a um bom desafio e a uma boa partida de Counter-Strike.
 
 ---
 
