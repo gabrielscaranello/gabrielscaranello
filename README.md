@@ -70,7 +70,7 @@
 ##### More
 
 - 📍 I'm from: Brazil
-- 🎂 Age: 25 years old
+- 🎂 Age: 26 years old
 - 💻️ OS: Arch Linux
 - 🌐 Favorite Languages: JavaScript/TypeScript
 - 🔧 Favorite Frameworks: Vue.js, Quasar, NestJs
