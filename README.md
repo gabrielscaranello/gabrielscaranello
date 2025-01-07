@@ -4,7 +4,7 @@
 
 🚀 On my journey, I’ve embraced best practices like SOLID, Clean Architecture, and TDD, and I value agile methodologies for efficient and impactful project delivery. As I transition to a senior role, I'm also advancing my skills in software architecture and solution architecture.
 
-🐧 I'm a Linux distributions enthusiast. My journey began with Linux Mint, and I’m a big fan of Arch Linux. I used Debian for a significant amount of time, but I’m currently using Arch with GNOME, which offers flexibility and an efficient workflow.
+🐧 I'm a Linux distributions enthusiast. My journey began with Linux Mint, and I’m a big fan of Arch Linux. After spending a significant amount of time using Debian with GNOME for its stability and streamlined workflow, I’m now back on Arch Linux with GNOME, enjoying its flexibility and cutting-edge environment.
 
 ✨ My favorite code editor is Neovim, which keeps my workflow efficient and enjoyable. Reach out if you'd like to chat about programming! I’m always up for a good challenge and a good game of Counter-Strike.
 
@@ -79,4 +79,3 @@
 
 - [Dotfiles](https://github.com/gabrielscaranello/dotfiles)
 - [Arch Linux Setup](https://github.com/gabrielscaranello/arch-setup)
-- [Debian 12 Setup](https://github.com/gabrielscaranello/debian)
