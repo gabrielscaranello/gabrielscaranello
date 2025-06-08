@@ -12,7 +12,7 @@
 
 <div style="display: inline_block"><br/>
     <img height="184em" alt="Gabriel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=catppuccin_mocha&count_private=true" />
-    <img height="184em" alt="Gabriel's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&theme=catppuccin_mocha&langs_count=6&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&hide=makefile,kotlin,C%23,lua" />
+    <img height="184em" alt="Gabriel's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&theme=catppuccin_mocha&langs_count=6&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&hide=makefile,kotlin,C%23,html" />
 </div>
 
 ### Languages
