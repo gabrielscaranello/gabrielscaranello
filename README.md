@@ -1,19 +1,16 @@
 ## Hello! I'm Gabriel Scaranello
 
-👨‍💻 I'm a software engineer passionate about programming, working in the field since January 2019. Over the years, I've gained experience with PHP, JavaScript, and TypeScript, using frameworks like Laravel, Vue.js, and React. Currently, I focus on front-end development with React and Vue.js, while expanding my skills in back-end with Node.js and studying Golang to build robust solutions. I'm also knowledgeable in Docker and a proud open-source enthusiast.
+👨‍💻 I'm a software engineer since 2019, passionate about programming.
+My main focus is Vue.js, with solid experience in React, PHP, JavaScript, TypeScript, Laravel, and Node.js.
+I'm learning Golang and focused on building clean, scalable solutions.
 
-🚀 On my journey, I’ve embraced best practices like SOLID, Clean Architecture, and TDD, and I value agile methodologies for efficient and impactful project delivery. As I transition to a senior role, I'm also advancing my skills in software architecture and solution architecture.
+🚀 I apply SOLID, Clean Architecture, and TDD, and value agile practices for delivering quality software.
 
-🐧 I'm a Linux distributions enthusiast. My journey began with Linux Mint, and I’m a big fan of Arch Linux. After spending a significant amount of time using Debian with GNOME for its stability and streamlined workflow, I’m now back on Arch Linux with GNOME, enjoying its flexibility and cutting-edge environment.
+🐧 Linux enthusiast: I’ve used Mint, Fedora, Arch, and Debian, and now run openSUSE Tumbleweed with GNOME for stability and cutting-edge tools.
 
-✨ My favorite code editor is Neovim, which keeps my workflow efficient and enjoyable. Reach out if you'd like to chat about programming! I’m always up for a good challenge and a good game of Counter-Strike.
+✨ Neovim is my editor of choice. Always up for coding — and a game of Counter-Strike!
 
 ---
-
-<div style="display: inline_block"><br/>
-    <img height="184em" alt="Gabriel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=catppuccin_mocha&count_private=true" />
-    <img height="184em" alt="Gabriel's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&theme=catppuccin_mocha&langs_count=6&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&hide=makefile,kotlin,C%23,html" />
-</div>
 
 ### Languages
 
@@ -46,10 +43,11 @@
     <img align="center" title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
     <img align="center" title="Neovim" alt="Neovim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" />
     <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img align="center" title="Debianx" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" />
+    <img align="center" title="Debian" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" />
+  <img align="center" title="Arch Linux" alt="Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" />
+  <img align="center" title="openSUSE" alt="openSUSE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opensuse/opensuse-original-wordmark.svg" />
     <img align="center" title="Fedora" alt="Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" />
     <img align="center" title="Ubuntu" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" />
-    <img align="center" title="Arch Linux" alt="Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" />
 </div>
 
 ---
@@ -61,6 +59,11 @@
     <a href="https://gitlab.com/gabrielscaranello" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-%23e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 </div><br/>
 
+<div style="display: inline_block"><br/>
+    <img height="184em" alt="Gabriel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=catppuccin_mocha&count_private=true" />
+    <img height="184em" alt="Gabriel's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&theme=catppuccin_mocha&langs_count=6&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&hide=makefile,kotlin,C%23,html" />
+</div>
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake.svg" />
@@ -71,11 +74,11 @@
 
 - 📍 I'm from: Brazil
 - 🎂 Age: 26 years old
-- 💻️ OS: Arch Linux
+- 💻️ OS: openSUSE Tumbleweed (GNOME)
 - 🌐 Favorite Languages: JavaScript/TypeScript
-- 🔧 Favorite Frameworks: Vue.js, Quasar, NestJs
+- 🔧 Favorite Frameworks: Vue.js, React, Quasar, NestJs
 
 #### Links
 
 - [Dotfiles](https://github.com/gabrielscaranello/dotfiles)
-- [Arch Linux Setup](https://github.com/gabrielscaranello/arch-setup)
+- [openSUSE Setup](https://github.com/gabrielscaranello/opensuse)
