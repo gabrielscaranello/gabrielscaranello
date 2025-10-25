@@ -6,7 +6,7 @@ I'm learning Golang and focused on building clean, scalable solutions.
 
 🚀 I apply SOLID, Clean Architecture, and TDD, and value agile practices for delivering quality software.
 
-🐧 Linux enthusiast: I’ve used Mint, Fedora, Arch, and Debian, and now run openSUSE Tumbleweed with GNOME for stability and cutting-edge tools.
+🐧 Linux enthusiast: I’ve used Mint, Fedora, openSUSE Tumbleweed, and Debian, and now run Arch Linux with KDE Plasma.
 
 ✨ Neovim is my editor of choice. Always up for coding — and a game of Counter-Strike!
 
@@ -17,8 +17,6 @@ I'm learning Golang and focused on building clean, scalable solutions.
 <div style="display: inline_block">
     <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
     <img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-    <img align="center" title="HTML5" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-    <img align="center" title="CSS3" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img align="center" title="SASS" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
     <img align="center" title="PHP" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
     <img align="center" title="Golang" alt="Golang" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" />
@@ -32,7 +30,6 @@ I'm learning Golang and focused on building clean, scalable solutions.
     <img align="center" title="ReactJs" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     <img align="center" title="NestJs" alt="Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
     <img align="center" title="Laravel" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
-    <img align="center" title="Jest" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
 </div>
 
 ### Tecnologies
@@ -45,9 +42,6 @@ I'm learning Golang and focused on building clean, scalable solutions.
     <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     <img align="center" title="Debian" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" />
   <img align="center" title="Arch Linux" alt="Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" />
-  <img align="center" title="openSUSE" alt="openSUSE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opensuse/opensuse-original-wordmark.svg" />
-    <img align="center" title="Fedora" alt="Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" />
-    <img align="center" title="Ubuntu" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" />
 </div>
 
 ---
@@ -74,11 +68,11 @@ I'm learning Golang and focused on building clean, scalable solutions.
 
 - 📍 I'm from: Brazil
 - 🎂 Age: 26 years old
-- 💻️ OS: openSUSE Tumbleweed (GNOME)
+- 💻️ OS: Arch Linux (KDE Plasma)
 - 🌐 Favorite Languages: JavaScript/TypeScript
 - 🔧 Favorite Frameworks: Vue.js, React, Quasar, NestJs
 
 #### Links
 
 - [Dotfiles](https://github.com/gabrielscaranello/dotfiles)
-- [openSUSE Setup](https://github.com/gabrielscaranello/opensuse)
+- [Arch Linux Setup](https://github.com/gabrielscaranello/arch-setup)
