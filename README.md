@@ -6,7 +6,7 @@ I'm learning Golang and focused on building clean, scalable solutions.
 
 🚀 I apply SOLID, Clean Architecture, and TDD, and value agile practices for delivering quality software.
 
-🐧 Linux enthusiast: I’ve used Mint, Fedora, openSUSE Tumbleweed, and Debian, and now run Arch Linux with KDE Plasma.
+🐧 Linux enthusiast: I’ve used Mint, Fedora, openSUSE Tumbleweed, and Arch Linux, and now running Debian 13 with Gnome.
 
 ✨ Neovim is my editor of choice. Always up for coding — and a game of Counter-Strike!
 
@@ -67,12 +67,12 @@ I'm learning Golang and focused on building clean, scalable solutions.
 ##### More
 
 - 📍 I'm from: Brazil
-- 🎂 Age: 26 years old
-- 💻️ OS: Arch Linux (KDE Plasma)
+- 🎂 Age: 27 years old
+- 💻️ OS: Debian 13 Gnome
 - 🌐 Favorite Languages: JavaScript/TypeScript
 - 🔧 Favorite Frameworks: Vue.js, React, Quasar, NestJs
 
 #### Links
 
 - [Dotfiles](https://github.com/gabrielscaranello/dotfiles)
-- [Arch Linux Setup](https://github.com/gabrielscaranello/arch-setup)
+- [Debian 13 Setup](https://github.com/gabrielscaranello/debian)
