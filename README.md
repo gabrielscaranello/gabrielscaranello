@@ -51,15 +51,11 @@ I'm learning Golang and focused on building clean, scalable solutions.
     <a href="https://x.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/gabriscaranello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23e13665?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://gitlab.com/gabrielscaranello" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-%23e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-</div><br/>
+</div>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Gabriel's contributions" />
-</picture>
+---
 
-##### More
+#### More
 
 - 📍 I'm from: Brazil
 - 🎂 Age: 27 years old
