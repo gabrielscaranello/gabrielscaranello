@@ -53,11 +53,6 @@ I'm learning Golang and focused on building clean, scalable solutions.
     <a href="https://gitlab.com/gabrielscaranello" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-%23e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 </div><br/>
 
-<div style="display: inline_block"><br/>
-    <img height="184em" alt="Gabriel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielscaranello&show_icons=true&theme=catppuccin_mocha&count_private=true" />
-    <img height="184em" alt="Gabriel's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscaranello&theme=catppuccin_mocha&langs_count=6&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&hide=makefile,kotlin,C%23,html" />
-</div>
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielscaranello/gabrielscaranello/blob/output/github-contribution-grid-snake.svg" />
