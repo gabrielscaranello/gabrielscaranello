@@ -19,7 +19,7 @@ I'm learning Golang and focused on building clean, scalable solutions.
     <img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
     <img align="center" title="SASS" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
     <img align="center" title="PHP" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-    <img align="center" title="Golang" alt="Golang" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" />
+    <!-- <img align="center" title="Golang" alt="Golang" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" /> -->
 </div>
 
 ### Frameworks
